@@ -1,0 +1,5 @@
+Task 02 - Answers
+
+1)As the number of hidden nodes in a neural network increases, the network's capacity to capture complex patterns in the data also increases. This can lead to improved performance and accuracy on the training data. With more hidden nodes, the network can learn intricate features and relationships within the data, potentially reducing underfitting. However, adding too many hidden nodes can lead to overfitting, where the model memorizes the training data and doesn't generalize well to new, unseen data.
+
+2)When the number of hidden nodes increases, the accuracy of the model on the training data may improve initially. This is because the network has more capacity to fit the training data closely. However, if the number of hidden nodes becomes excessive, the model may start to overfit the training data, leading to a decrease in accuracy on new, unseen data (test/validation data). This means the training accuracy may continue to increase while the test accuracy plateaus or even decreases.
